@@ -1,8 +1,8 @@
 ## INSTITUTO TECNOLÓGICO DA AERONÁUTICA 
 CURSO: PROGRAMAÇÃO ORIENTADA A OBJETOS COM JAVA
 ## ATIVIDADE 01 - CÁLCULO DE IMC
-### Autor: Thiago H. R. Costa - 15.05.2019
-### Software utilizado: Eclipse IDE
+*Autor: Thiago H. R. Costa - 15.05.2019*
+*Software utilizado: Eclipse IDE*
 <hr>
 Atividade de nº 01 apresentada ao Curso de Programação Orientada a objetos com Java do Instituto Tecnológico da Aeronáutica objetivando a aquisição de certificado de conclusão do curso após a conclusão de todas as atividades programadas.
 <hr>
