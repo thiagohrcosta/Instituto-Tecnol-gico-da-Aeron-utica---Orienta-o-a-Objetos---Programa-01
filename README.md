@@ -1,5 +1,5 @@
 ## INSTITUTO TECNOLÓGICO DA AERONÁUTICA 
-## CURSO: PROGRAMAÇÃO ORIENTADA A OBJETOS COM JAVA
+CURSO: PROGRAMAÇÃO ORIENTADA A OBJETOS COM JAVA
 ## ATIVIDADE 01 - CÁLCULO DE IMC
 ### Autor: Thiago H. R. Costa - 15.05.2019
 ### Software utilizado: Eclipse IDE
@@ -19,4 +19,3 @@ Obesidade grau III (obesidade mórbida) = IMC igual ou maior que 40 kg/m²
 Implemente no Eclipse uma classe chamada Principal em que se criam 3 instâncias da classe Paciente com valores diferentes e se imprime no console o resultado dos dois métodos criados.
 <hr>
 **SOLUÇÃO**: Arquivos de solução dentro da pasta "src" desenvolvidos em Java.
-
